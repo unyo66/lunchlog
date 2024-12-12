@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "imsi00.!",
+    "database": "lunchlog",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
